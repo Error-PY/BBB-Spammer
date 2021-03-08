@@ -3,6 +3,12 @@ This Bot loggs into your BBB account and joins it (SPAM)
 
 
 Instruction:
+0:  Have python and:
+    pip install selenium
+    pip install time
+    pip install tkinter
+    pip install keyboard
+
 1:  You need to have Chrome and a Chromedriver.exe
     Download it here: https://chromedriver.chromium.org/downloads
 
