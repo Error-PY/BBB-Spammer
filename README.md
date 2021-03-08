@@ -3,6 +3,7 @@ This Bot loggs into your BBB account and joins it (SPAM)
 
 
 Instruction:
+
 0:  Have python and:
     pip install selenium
     pip install time
