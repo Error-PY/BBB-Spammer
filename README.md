@@ -19,7 +19,7 @@ Instruction:
 
 2:  Rename the Chromedriver.exe to CHROMEDRIVER.exe
 
-3:  Paste the CHROMEDRIVER.exe into the same folder as the .py file
+3:  Paste the CHROMEDRIVER.exe onto the Desktop. Repeat the process for the .py file
 
 4:  Run the .py, enter all stuff.
 
