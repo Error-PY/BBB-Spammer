@@ -15,6 +15,7 @@ Instruction:
 
 1:  You need to have Chrome and a Chromedriver.exe
     Download it here:
+    
     https://chromedriver.chromium.org/downloads
 
 2:  Rename the Chromedriver.exe to CHROMEDRIVER.exe
