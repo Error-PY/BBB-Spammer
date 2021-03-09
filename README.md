@@ -6,23 +6,20 @@ Instruction:
 
 0:  Have python and:
 
-    pip install selenium
+    pip install tkinter
     
     pip install time
     
-    pip install tkinter
-    
     pip install keyboard
 
-1:  You need to have Chrome and a Chromedriver.exe
-    Download it here: https://chromedriver.chromium.org/downloads
+1:  Run the Universal_Spammer.py
 
-2:  Rename the Chromedriver.exe to CHROMEDRIVER.exe
+2:  Enter the stuff asked
 
-3:  Paste the CHROMEDRIVER.exe onto the Desktop. Repeat the process for the .py file
+3:  Click on Start Spamming (It may lag a lot) and click on the Input field you want to spam
 
-4:  Run the .py, enter all stuff.
+Alternative: Use the button "Anti-Lag" to reduce lag while spamming
 
-5:  After you clicked the Start Button, Click on the opened Chrome window and dont click on other windows till it is finished.
+4:  Do not switch windows till it finished Spamming because other fields could be spammed too
 
-6:  Have Fun!
+5:  Have Fun!
